@@ -15,6 +15,8 @@ shows when this was last added or bumped. Consider this a "last updated" date.
 
 📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *[bumped 2025-04-17]*
 
+📁 [Minimal Argument Parser](https://github.com/chaoticva/c3-argparser) - library that adds aminimal argument parser to C3 *[bumped 2025-04-15]*
+
 ### Applications
 
 ⭐[Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

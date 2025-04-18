@@ -19,6 +19,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Minimal Argument Parser](https://github.com/chaoticva/c3-argparser) - library that adds aminimal argument parser to C3 *[bumped 2025-04-15]*
 
+📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-04-18]*
+
 ### Applications
 
 ⭐[Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

@@ -21,6 +21,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-04-18]*
 
+📁 [Minimal Logger](https://github.com/chaoticva/c3-logger) - library that adds aminimal logger to C3 *[bumped 2025-04-19]*
+
 ### Applications
 
 ⭐[Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

@@ -23,6 +23,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Minimal Logger](https://github.com/chaoticva/c3-logger) - library that adds aminimal logger to C3 *[bumped 2025-04-19]*
 
+📁 [Small networking library](https://github.com/ygorpontelo/c3-server-lib) - library that aims to add an async server and client implementation to c3 *[bumped 2025-04-22]*
+
 
 
 ### Applications

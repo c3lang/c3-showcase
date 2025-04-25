@@ -17,13 +17,13 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *[bumped 2025-04-17]*
 
-📁 [Minimal Argument Parser](https://github.com/chaoticva/c3-argparser) - library that adds aminimal argument parser to C3 *[bumped 2025-04-15]*
+📁 [Minimal Argument Parser](https://github.com/chaoticva/c3-argparser) - Minimal argument parser library for C3 *[bumped 2025-04-15]*
 
-📁 [argparse](https://github.com/joshring/argparse) - library that adds an argument parser to C3
+📁 [argparse](https://github.com/joshring/argparse) - Another, more full fledged argument parser library for C3 *[bumped 2025-04-26]*
 
 📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-04-18]*
 
-📁 [Minimal Logger](https://github.com/chaoticva/c3-logger) - library that adds aminimal logger to C3 *[bumped 2025-04-19]*
+📁 [Minimal Logger](https://github.com/chaoticva/c3-logger) - A minimal logger library for C3 *[bumped 2025-04-19]*
 
 📁 [Small networking library](https://github.com/ygorpontelo/c3-server-lib) - library that aims to add an async server and client implementation to c3 *[bumped 2025-04-22]*
 

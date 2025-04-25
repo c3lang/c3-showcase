@@ -19,6 +19,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Minimal Argument Parser](https://github.com/chaoticva/c3-argparser) - library that adds aminimal argument parser to C3 *[bumped 2025-04-15]*
 
+📁 [argparse](https://github.com/joshring/argparse) - library that adds an argument parser to C3
+
 📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-04-18]*
 
 📁 [Minimal Logger](https://github.com/chaoticva/c3-logger) - library that adds aminimal logger to C3 *[bumped 2025-04-19]*

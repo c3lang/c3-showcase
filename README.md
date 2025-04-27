@@ -30,7 +30,6 @@ If you have something you feel could be interesting to share with the rest of th
 📁 [json library](https://github.com/hwchen/json-c3) - json library for C3 *[bumped 2025-03-20]*
 
 
-
 ### Applications
 
 ⭐[Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*
@@ -38,6 +37,12 @@ If you have something you feel could be interesting to share with the rest of th
 ### Games
 
 👾 [Boing](https://github.com/tekin-tontu/boing) - BOING (pong) port of python game to C3 *[bumped 2025-04-22]*
+
+### Advent of Code solutions
+
+🎅 [CLernö AoC 2022] https://github.com/lerno/aoc_2022_c3) - Complete solution to AoC 2022 *[bumped 2025-04-27]*
+🎅 [CLernö AoC 2023] https://github.com/lerno/aoc_2023_c3) - Complete solution to AoC 2023 *[bumped 2025-04-27]*
+🎅 [CLernö AoC 2024] https://github.com/lerno/aoc_2024_c3) - Solutions to AoC 2024 day 1-19 *[bumped 2025-04-27]*
 
 ## Contribute!
 

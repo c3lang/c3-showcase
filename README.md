@@ -27,6 +27,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Small networking library](https://github.com/ygorpontelo/c3-server-lib) - library that aims to add an async server and client implementation to c3 *[bumped 2025-04-22]*
 
+📁 [json library](https://github.com/hwchen/json-c3) - json library for C3 *[bumped 2025-03-20]*
+
 
 
 ### Applications

@@ -31,6 +31,21 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [I18n library](https://github.com/tahadostifam/i18n-c3) - I18n library for C3 *[bumped 2025-04-28]*
 
+📁 [TOML parser](https://github.com/konimarti/toml.c3l) - TOML config parser for C3 *[bumped 2025-04-29]*
+
+📁 [xlsx Writer](https://github.com/radekm/xlsx-writer) - A C3 library for writing XLSX files in a streaming fashion *[bumped 2025-04-29]*
+
+📁 [XML parser](https://github.com/tonis2/xml.c3) - XML parser for C3 *[bumped 2025-04-29]*
+
+📁 [Inflate](https://github.com/konimarti/tinf.c3l) - C3 Inflate library (inflate, gzip, zlib) *[bumped 2025-04-29]*
+
+📁 [AES](https://github.com/konimarti/aes.c3l) - AES implementation for C3 *[bumped 2025-04-29]*
+
+📁 [HTTP Client](https://github.com/tclesius/http.c3) - HTTP Client Library *[bumped 2025-04-29]*
+
+📁 [HTTP Server](https://github.com/velikoss/c3-api) - Simple C3 HTTP Server with routing *[bumped 2025-04-29]*
+
+📁 [UEFI tools](https://github.com/NotsoanoNimus/uefi.c3l) - UEFI Definitions & Library for C3 *[bumped 2025-04-29]*
 
 ### Applications
 

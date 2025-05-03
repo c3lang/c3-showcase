@@ -17,7 +17,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *[bumped 2025-04-17]*
 
-📁 [Minimal Argument Parser](https://github.com/chaoticva/c3-argparser) - Minimal argument parser library for C3 *[bumped 2025-04-15]*
+📁 [Minimal Argument Parser](https://github.com/chaoticva/c3-argparser) - Minimal argument parser library for C3 *[bumped 2025-05-04]*
 
 📁 [argparse](https://github.com/joshring/argparse) - Another, more full fledged argument parser library for C3 *[bumped 2025-04-26]*
 

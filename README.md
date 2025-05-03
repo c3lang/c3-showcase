@@ -49,6 +49,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Assuan protocol](https://github.com/konimarti/assuan.c3l) - C3 implementation of the Assuan IPC protocol. *[bumped 2025-04-30]*
 
+📁 [terminal color utils](https://github.com/chaoticva/c3-colorutil) - C3 color utility for terminals *[bumped 2025-05-04]*
+
 ### Applications
 
 ⭐[Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

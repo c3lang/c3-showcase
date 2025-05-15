@@ -67,6 +67,9 @@ If you have something you feel could be interesting to share with the rest of th
 
 🎅 [CLernö AoC 2024](https://github.com/lerno/aoc_2024_c3) - Solutions to AoC 2024 day 1-19 *[bumped 2025-04-27]*
 
+### Other
+
+🔤 [lucy](https://github.com/chaoticva/lucy) - a compiler for the lucy language written in c3 *[bumped 2025-05-15]*
 
 ## Contribute!
 

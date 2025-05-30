@@ -53,7 +53,9 @@ If you have something you feel could be interesting to share with the rest of th
 
 ### Applications
 
-⭐[Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*
+⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*
+
+⭐ [fox33](https://github.com/Book-reader/fox33) - a WIP fox32 emulator written in C3 *[bumped 2025-05-30]*
 
 ### Games
 

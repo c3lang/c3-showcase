@@ -71,7 +71,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 ### Other
 
-🔤 [lucy](https://github.com/chaoticva/lucy) - a compiler for the lucy language written in c3 *[bumped 2025-05-25]*
+🔤 [lucy](https://github.com/lucy-language/lucy) - a compiler for the lucy language written in c3 *[bumped 2025-06-02]*
 
 ## Contribute!
 

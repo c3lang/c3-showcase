@@ -49,6 +49,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [terminal color utils](https://github.com/chaoticva/c3-colorutil) - C3 color utility for terminals *[bumped 2025-05-04]*
 
+📁 [Tagged Unions](https://github.com/Book-reader/tagged_unions.c3l) - A simple library for mostly safe tagged unions *[bumped 2025-06-22]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

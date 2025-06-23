@@ -43,13 +43,15 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [HTTP Server](https://github.com/velikoss/c3-api) - Simple C3 HTTP Server with routing *[bumped 2025-04-29]*
 
-📁 [UEFI tools](https://github.com/NotsoanoNimus/uefi.c3l) - UEFI Definitions & Library for C3 *[bumped 2025-04-29]*
+📁 [UEFI tools](https://github.com/NotsoanoNimus/uefi.c3l) - UEFI Definitions & Library for C3 *[bumped 2025-06-23]*
 
 📁 [Assuan protocol](https://github.com/konimarti/assuan.c3l) - C3 implementation of the Assuan IPC protocol. *[bumped 2025-04-30]*
 
 📁 [terminal color utils](https://github.com/chaoticva/c3-colorutil) - C3 color utility for terminals *[bumped 2025-05-04]*
 
 📁 [Tagged Unions](https://github.com/Book-reader/tagged_unions.c3l) - A simple library for mostly safe tagged unions *[bumped 2025-06-22]*
+
+📁 [ChaCha20-Poly1305](https://github.com/NotsoanoNimus/chacha20_aead.c3l) - Zero-dependency crypto library for ChaCha20, Poly1305, and their combination. *[bumped 2025-06-23]*
 
 ### Applications
 

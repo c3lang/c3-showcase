@@ -62,6 +62,7 @@ If you have something you feel could be interesting to share with the rest of th
 ### Games
 
 👾 [Boing](https://github.com/tekin-tontu/boing) - BOING (pong) port of python game to C3 *[bumped 2025-04-22]*
+⭐ [Armadillo Madness](https://github.com/Ronin15/Armadillo_Madness_C3) - A complete 2D casual side scroller arcade style game written for my daughter about an Armadillo shooting poop at bad guys.
 
 ### Advent of Code solutions
 

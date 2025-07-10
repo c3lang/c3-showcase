@@ -76,7 +76,10 @@ If you have something you feel could be interesting to share with the rest of th
 ### Other
 
 🔤 [lucy](https://github.com/lucy-language/lucy) - a compiler for the lucy language written in c3 *[bumped 2025-06-25]*
+
 🔤 [modulang](https://github.com/cubedium/modulang) - a (sort of) modular esolang made in c3 *[bumped 2025-06-28]*
+
+🔤 [readline-fzf-hook.c3](https://github.com/shaobosong/readline-fzf-hook.c3) - Enhanced Readline with fzf-powered hooks. *[bumped 2025-07-10]*
 
 ## Contribute!
 

@@ -13,6 +13,12 @@ If you have something you feel could be interesting to share with the rest of th
 
 📖 [Ebn's C3 tutorials](https://ebn.codeberg.page/programming/c3/) - from Hello World to setting up OpenGL *[bumped 2025-04-17]*
 
+### Tooling
+
+🔨 [Bash completion script for c3c](https://github.com/BWindey/c3c-bash-completions/) - tab completions for the c3c command for bash (open for contributions for other platforms: zsh, fish, ...)
+
+🔨 [c3c version manager](https://github.com/BWindey/c3vm) - version manager for c3c written in bash, might get replaced by a more platform-independent solution some day
+
 ### Libraries
 
 📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *[bumped 2025-04-17]*

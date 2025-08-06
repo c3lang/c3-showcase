@@ -61,11 +61,15 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [ChaCha20-Poly1305](https://github.com/NotsoanoNimus/chacha20_aead.c3l) - Zero-dependency crypto library for ChaCha20, Poly1305, and their combination. *[bumped 2025-06-23]*
 
+📁 [libmpv.c3l](https://github.com/Book-reader/libmpv.c3l) - libmpv bindings for C3 *[bumped 2025-08-06]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*
 
-⭐ [fox33](https://github.com/Book-reader/fox33) - a WIP fox32 emulator written in C3 *[bumped 2025-05-30]*
+⭐ [fox33](https://github.com/Book-reader/fox33) - a fox32 emulator written in C3 *[bumped 2025-06-15]*
+
+⭐ [mplay](https://github.com/Book-reader/mplay_c3) - a simple cli music player written in C3 using libmpv *[bumped 2025-08-06]*
 
 ### Games
 

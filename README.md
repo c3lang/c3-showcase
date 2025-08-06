@@ -61,6 +61,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [ChaCha20-Poly1305](https://github.com/NotsoanoNimus/chacha20_aead.c3l) - Zero-dependency crypto library for ChaCha20, Poly1305, and their combination. *[bumped 2025-06-23]*
 
+📁 [PEM format](https://github.com/konimarti/pem.c3l) - PEM file format encoding and decoding *[bumped 2025-08-06]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

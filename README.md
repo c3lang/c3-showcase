@@ -63,6 +63,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [PEM format](https://github.com/konimarti/pem.c3l) - PEM file format encoding and decoding *[bumped 2025-08-06]*
 
+📁 [Zip Archives](https://github.com/konimarti/zip.c3l) - Read and write Zip archives (Zip64 format also supported) *[bumped 2025-08-17]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

@@ -63,7 +63,9 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [libmpv.c3l](https://github.com/Book-reader/libmpv.c3l) - libmpv bindings for C3 *[bumped 2025-08-06]*
 
-📁 [Const Map](https://github.com/Book-reader/const_map.c3l) - Compile-time constant hashmaps *[bumped 2025-08-14]*
+📁 [Const Map](https://github.com/Book-reader/const_map.c3l) - Compile-time constant hashmaps *[bumped 2025-08-17]*
+
+📁 [Closures](https://github.com/Book-reader/closures.c3l) - Explicitly capturing function-pointer closures in C3 *[bumped 2025-08-28]*
 
 ### Applications
 

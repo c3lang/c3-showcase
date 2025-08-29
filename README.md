@@ -37,7 +37,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [I18n library](https://github.com/tahadostifam/i18n-c3) - I18n library for C3 *[bumped 2025-04-28]*
 
-📁 [TOML parser](https://github.com/konimarti/toml.c3l) - TOML config parser for C3 *[bumped 2025-04-29]*
+📁 [TOML parser](https://github.com/konimarti/toml.c3l) - TOML config parser for C3 *[bumped 2025-08-06]*
 
 📁 [xlsx Writer](https://github.com/radekm/xlsx-writer) - A C3 library for writing XLSX files in a streaming fashion *[bumped 2025-04-29]*
 
@@ -60,6 +60,13 @@ If you have something you feel could be interesting to share with the rest of th
 📁 [Tagged Unions](https://github.com/Book-reader/tagged_unions.c3l) - A simple library for mostly safe tagged unions *[bumped 2025-06-22]*
 
 📁 [ChaCha20-Poly1305](https://github.com/NotsoanoNimus/chacha20_aead.c3l) - Zero-dependency crypto library for ChaCha20, Poly1305, and their combination. *[bumped 2025-06-23]*
+
+📁 [PEM format](https://github.com/konimarti/pem.c3l) - PEM file format encoding and decoding *[bumped 2025-08-06]*
+
+📁 [Zip Archives](https://github.com/konimarti/zip.c3l) - Read and write Zip archives (Zip64 format also supported) *[bumped 2025-08-17]*
+
+📁 [LRU/LFU Caches](https://github.com/konimarti/cache.c3l) - LRU/LFU Cache implementations *[bumped 2025-08-18]*
+
 
 ### Applications
 

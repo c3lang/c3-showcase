@@ -75,6 +75,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Regexp9](https://github.com/konimarti/regexp9.c3l) - Thompson NFA regex engine with submatches ported from Plan9 *[bumped 2025-09-17]*
 
+📁 [ECS](https://codeberg.org/m0tholith/c3-ecs) - Entity-Component-System module written in C3 *[bumped 2025-09-23]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

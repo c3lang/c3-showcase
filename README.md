@@ -77,6 +77,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [ECS](https://codeberg.org/m0tholith/c3-ecs) - Entity-Component-System module written in C3 *[bumped 2025-09-23]*
 
+📁 [VT100 Parser](https://github.com/konimarti/vt100.c3l) - VT100 Parser for escape and control sequences (DEC/ANSI-compatible) *[bumped 2025-09-29]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

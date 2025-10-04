@@ -39,7 +39,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [TOML parser](https://github.com/konimarti/toml.c3l) - TOML config parser for C3 *[bumped 2025-08-06]*
 
-📁 [xlsx Writer](https://github.com/radekm/xlsx-writer) - A C3 library for writing XLSX files in a streaming fashion *[bumped 2025-04-29]*
+📁 [xlsx Writer](https://github.com/radekm/xlsx-writer) - A C3 library for writing XLSX files in a streaming fashion *[bumped 2025-10-04]*
 
 📁 [XML parser](https://github.com/tonis2/xml.c3) - XML parser for C3 *[bumped 2025-04-29]*
 
@@ -78,6 +78,12 @@ If you have something you feel could be interesting to share with the rest of th
 📁 [ECS](https://codeberg.org/m0tholith/c3-ecs) - Entity-Component-System module written in C3 *[bumped 2025-09-23]*
 
 📁 [VT100 Parser](https://github.com/konimarti/vt100.c3l) - VT100 Parser for escape and control sequences (DEC/ANSI-compatible) *[bumped 2025-09-29]*
+
+📁 [B-tree](https://github.com/radekm/btree) - B-tree that can serve as a map or set *[bumped 2025-10-04]*
+
+📁 [sokol-c3](https://github.com/floooh/sokol-c3) - Auto-generated C3 bindings for the sokol headers *[bumped 2025-10-04]*
+
+📁 [imgui-c3](https://github.com/radekm/imgui-c3) - Bindings for Dear ImGui, ImPlot and ImGuiFileDialog with sokol backend *[bumped 2025-09-25]*
 
 ### Applications
 

@@ -85,6 +85,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [imgui-c3](https://github.com/radekm/imgui-c3) - Bindings for Dear ImGui, ImPlot and ImGuiFileDialog with sokol backend *[bumped 2025-09-25]*
 
+📁 [Kotlin bindings](https://github.com/rtc11/c3kt) - call C3 from kotlin (dynamic libs) *[bumped 2025-10-10]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

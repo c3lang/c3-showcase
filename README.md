@@ -29,7 +29,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [getopt-style args parser](https://github.com/NotsoanoNimus/getopt.c3l) - Yet another args parser centered around GNU `getopt` with extras inspired by D-lang *[bumped 2025-07-25]*
 
-📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-04-18]*
+📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-11-06]*
 
 📁 [Minimal Logger](https://github.com/FoxKiana/c3-logger) - A minimal logger library for C3 *[bumped 2025-04-19]*
 

@@ -75,7 +75,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Regexp9](https://github.com/konimarti/regexp9.c3l) - Thompson NFA regex engine with submatches ported from Plan9 *[bumped 2025-09-17]*
 
-📁 [ECS](https://codeberg.org/m0tholith/c3-ecs) - Entity-Component-System module written in C3 *[bumped 2025-09-23]*
+📁 [ECS](https://codeberg.org/m0tholith/c3-ecs) - Entity-Component-System module written in C3 *[bumped 2025-11-14]*
 
 📁 [VT100 Parser](https://github.com/konimarti/vt100.c3l) - VT100 Parser for escape and control sequences (DEC/ANSI-compatible) *[bumped 2025-09-29]*
 

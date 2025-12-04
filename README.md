@@ -117,6 +117,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 🔤 [readline-fzf-hook.c3](https://github.com/shaobosong/readline-fzf-hook.c3) - Enhanced Readline with fzf-powered hooks. *[bumped 2025-07-10]*
 
+🔤 [muon-kernel](https://github.com/rickyadastra/muon-kernel) - A minimalist x86-64 microkernel written in C3 *[bumped 2025-12-04]*
+
 ## Contribute!
 
 Feel free to add pull requests to this repository to either bump a project that you know is active, or add more projects.

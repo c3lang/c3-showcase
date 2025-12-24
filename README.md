@@ -87,6 +87,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Kotlin bindings](https://github.com/rtc11/c3kt) - call C3 from kotlin (dynamic libs) *[bumped 2025-10-10]*
 
+📁 [C3 lexer](https://github.com/konimarti/lexer.c3l) - C3 lexer with contract and comment support, validated against the C3 standard library and all unit tests *[bumped 2025-12-24]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

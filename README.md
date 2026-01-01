@@ -99,6 +99,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 ⭐ [pwm](https://github.com/iwnlcern/pwm) - a simple cli password manager written in C3 with sqlcipher databases.
 
+⭐ [OpenPNGStudio](https://github.com/openpngstudio) - create & stream PNGTuber models.
+
 ### Games
 
 👾 [Boing](https://github.com/tekin-tontu/boing) - BOING (pong) port of python game to C3 *[bumped 2025-04-22]*

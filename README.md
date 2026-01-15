@@ -19,11 +19,13 @@ If you have something you feel could be interesting to share with the rest of th
 
 🔨 [c3c version manager](https://github.com/BWindey/c3vm) - version manager for c3c written in bash, might get replaced by a more platform-independent solution some day
 
+🔨 [c3build](https://github.com/lyranie/c3-build-file) - cmake-like buildscript
+
 ### Libraries
 
 📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *[bumped 2025-04-17]*
 
-📁 [Minimal Argument Parser](https://github.com/FoxKiana/c3-argparser) - Minimal argument parser library for C3 *[bumped 2025-05-04]*
+📁 [Minimal Argument Parser](https://github.com/lyranie/c3-argparser) - Minimal argument parser library for C3 *[bumped 2025-05-04]*
 
 📁 [argparse](https://github.com/joshring/argparse) - Another, more full fledged argument parser library for C3 *[bumped 2025-04-26]*
 
@@ -31,7 +33,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-11-06]*
 
-📁 [Minimal Logger](https://github.com/FoxKiana/c3-logger) - A minimal logger library for C3 *[bumped 2025-04-19]*
+📁 [Minimal Logger](https://github.com/lyranie/c3-logger) - A minimal logger library for C3 *[bumped 2025-04-19]*
 
 📁 [json library](https://github.com/hwchen/json-c3) - json library for C3 *[bumped 2025-06-27]*
 
@@ -54,8 +56,6 @@ If you have something you feel could be interesting to share with the rest of th
 📁 [UEFI tools](https://github.com/NotsoanoNimus/uefi.c3l) - UEFI Definitions & Library for C3 *[bumped 2025-06-23]*
 
 📁 [Assuan protocol](https://github.com/konimarti/assuan.c3l) - C3 implementation of the Assuan IPC protocol. *[bumped 2025-04-30]*
-
-📁 [terminal color utils](https://github.com/FoxKiana/c3-colorutil) - C3 color utility for terminals *[bumped 2025-05-04]*
 
 📁 [Tagged Unions](https://github.com/Book-reader/tagged_unions.c3l) - A simple library for mostly safe tagged unions *[bumped 2025-06-22]*
 

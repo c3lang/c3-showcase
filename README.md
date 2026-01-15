@@ -29,7 +29,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [getopt-style args parser](https://github.com/NotsoanoNimus/getopt.c3l) - Yet another args parser centered around GNU `getopt` with extras inspired by D-lang *[bumped 2025-07-25]*
 
-📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-04-18]*
+📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-11-06]*
 
 📁 [Minimal Logger](https://github.com/FoxKiana/c3-logger) - A minimal logger library for C3 *[bumped 2025-04-19]*
 
@@ -39,7 +39,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [TOML parser](https://github.com/konimarti/toml.c3l) - TOML config parser for C3 *[bumped 2025-08-06]*
 
-📁 [xlsx Writer](https://github.com/radekm/xlsx-writer) - A C3 library for writing XLSX files in a streaming fashion *[bumped 2025-04-29]*
+📁 [xlsx Writer](https://github.com/radekm/xlsx-writer) - A C3 library for writing XLSX files in a streaming fashion *[bumped 2025-10-04]*
 
 📁 [XML parser](https://github.com/tonis2/xml.c3) - XML parser for C3 *[bumped 2025-04-29]*
 
@@ -75,7 +75,21 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Regexp9](https://github.com/konimarti/regexp9.c3l) - Thompson NFA regex engine with submatches ported from Plan9 *[bumped 2025-09-17]*
 
-📁 [ECS](https://codeberg.org/m0tholith/c3-ecs) - Entity-Component-System module written in C3 *[bumped 2025-09-23]*
+📁 [ECS](https://codeberg.org/m0tholith/c3-ecs) - Entity-Component-System module written in C3 *[bumped 2025-11-14]*
+
+📁 [VT100 Parser](https://github.com/konimarti/vt100.c3l) - VT100 Parser for escape and control sequences (DEC/ANSI-compatible) *[bumped 2025-09-29]*
+
+📁 [B-tree](https://github.com/radekm/btree) - B-tree that can serve as a map or set *[bumped 2025-10-04]*
+
+📁 [sokol-c3](https://github.com/floooh/sokol-c3) - Auto-generated C3 bindings for the sokol headers *[bumped 2025-10-04]*
+
+📁 [imgui-c3](https://github.com/radekm/imgui-c3) - Bindings for Dear ImGui, ImPlot and ImGuiFileDialog with sokol backend *[bumped 2025-09-25]*
+
+📁 [Kotlin bindings](https://github.com/rtc11/c3kt) - call C3 from kotlin (dynamic libs) *[bumped 2025-10-10]*
+
+📁 [C3 lexer](https://github.com/konimarti/lexer.c3l) - C3 lexer with contract and comment support, validated against the C3 standard library and all unit tests *[bumped 2025-12-24]*
+
+📁 [Wren C3 bindings](https://github.com/konimarti/wren.c3l) - C3 bindings for the Wren scripting language (no external dependencies) *[bumped 2026-01-02]*
 
 ### Applications
 
@@ -84,6 +98,10 @@ If you have something you feel could be interesting to share with the rest of th
 ⭐ [fox33](https://github.com/Book-reader/fox33) - a fox32 emulator written in C3 *[bumped 2025-06-15]*
 
 ⭐ [mplay](https://github.com/Book-reader/mplay_c3) - a simple cli music player written in C3 using libmpv *[bumped 2025-08-06]*
+
+⭐ [pwm](https://github.com/iwnlcern/pwm) - a simple cli password manager written in C3 with sqlcipher databases.
+
+⭐ [OpenPNGStudio](https://github.com/openpngstudio) - create & stream PNGTuber models.
 
 ### Games
 
@@ -106,6 +124,8 @@ If you have something you feel could be interesting to share with the rest of th
 🔤 [modulang](https://github.com/cubedium/modulang) - a (sort of) modular esolang made in c3 *[bumped 2025-06-28]*
 
 🔤 [readline-fzf-hook.c3](https://github.com/shaobosong/readline-fzf-hook.c3) - Enhanced Readline with fzf-powered hooks. *[bumped 2025-07-10]*
+
+🔤 [muon-kernel](https://github.com/rickyadastra/muon-kernel) - A minimalist x86-64 microkernel written in C3 *[bumped 2025-12-04]*
 
 ## Contribute!
 

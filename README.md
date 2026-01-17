@@ -19,6 +19,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 🔨 [c3c version manager](https://github.com/BWindey/c3vm) - version manager for c3c written in bash, might get replaced by a more platform-independent solution some day
 
+🔨 [c3fmt](https://github.com/lmichaudel/c3fmt) - code formatter for C3 *[bumped 2026-01-17]*
+
 ### Libraries
 
 📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *[bumped 2025-04-17]*

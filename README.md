@@ -17,6 +17,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 🔨 [Bash completion script for c3c](https://github.com/BWindey/c3c-bash-completions/) - tab completions for the c3c command for bash (open for contributions for other platforms: zsh, fish, ...)
 
+🔨 (WIP)[Fish completion script for c3c](https://github.com/fgsoftware1/c3-fish-completions) - tab completions for the c3c command for fish
+
 🔨 [c3c version manager](https://github.com/BWindey/c3vm) - version manager for c3c written in bash, might get replaced by a more platform-independent solution some day
 
 🔨 [c3fmt](https://github.com/lmichaudel/c3fmt) - code formatter for C3 *[bumped 2026-01-17]*

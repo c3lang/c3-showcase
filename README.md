@@ -93,6 +93,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Wren C3 bindings](https://github.com/konimarti/wren.c3l) - C3 bindings for the Wren scripting language (no external dependencies) *[bumped 2026-01-02]*
 
+📁 [SoA - StructureOfArrays](https://github.com/nyr24/c3_soa_lib) - C3 library for operating on SoA (Structure Of Arrays) (no external dependencies) *[bumped 2026-01-20]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

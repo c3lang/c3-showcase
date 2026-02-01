@@ -35,6 +35,10 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-11-06]*
 
+📁 [Vulkan-C3](https://github.com/tonis2/Vulkan.c3) - Vulkan bindings for C3 *[bumped 2026-02-01]*
+
+📁 [Collision detection](https://github.com/tonis2/collision.c3) - 3D collision detection / physcis resolving for C3 *[bumped 2026-02-01]*
+
 📁 [Minimal Logger](https://github.com/lyranie/c3-logger) - A minimal logger library for C3 *[bumped 2025-04-19]*
 
 📁 [json library](https://github.com/hwchen/json-c3) - json library for C3 *[bumped 2025-06-27]*

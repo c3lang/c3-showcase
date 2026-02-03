@@ -23,6 +23,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 🔨 [c3build](https://github.com/lyranie/c3-build-file) - cmake-like buildscript
 
+🔨 [c3-gl-generator](https://github.com/lualvsil/c3-gl-generator) - python scripts to generate EGL and OpenGL bindings to C3
+
 ### Libraries
 
 📁 [BC3 bindings generator library](https://github.com/vssukharev/bc3) - library to create bindings for C code to C3 *[bumped 2025-04-17]*

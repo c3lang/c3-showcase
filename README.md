@@ -53,6 +53,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [XML parser](https://github.com/tonis2/xml.c3) - XML parser for C3 *[bumped 2025-04-29]*
 
+📁 [Binary Serialization](https://github.com/RapidStruct/RapidStructC3) - Simple binary serialization for C3 using RapidStruct
+
 📁 [Inflate](https://github.com/konimarti/tinf.c3l) - C3 Inflate library (inflate, gzip, zlib) *[bumped 2025-04-29]*
 
 📁 [AES](https://github.com/konimarti/aes.c3l) - AES implementation for C3 *[bumped 2025-04-29]*

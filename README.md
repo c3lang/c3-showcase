@@ -35,7 +35,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [argparse](https://github.com/joshring/argparse) - Another, more full fledged argument parser library for C3 *[bumped 2025-04-26]*
 
-📁 [getopt-style args parser](https://github.com/NotsoanoNimus/getopt.c3l) - Yet another args parser centered around GNU `getopt` with extras inspired by D-lang *[bumped 2025-07-25]*
+📁 [getopt-style args parser](https://github.com/NotsoanoNimus/getopt.c3l) - Yet another args parser centered around GNU `getopt` with extras inspired by D-lang *[bumped 2026-02-24]*
 
 📁 [Vulkan-C3](https://github.com/hucancode/vulkan-c3) - library that add vulkan support to C3 *[bumped 2025-11-06]*
 
@@ -71,8 +71,6 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Tagged Unions](https://github.com/Book-reader/tagged_unions.c3l) - A simple library for mostly safe tagged unions *[bumped 2025-06-22]*
 
-📁 [ChaCha20-Poly1305](https://github.com/NotsoanoNimus/chacha20_aead.c3l) - Zero-dependency crypto library for ChaCha20, Poly1305, and their combination. *[bumped 2025-06-23]*
-
 📁 [PEM format](https://github.com/konimarti/pem.c3l) - PEM file format encoding and decoding *[bumped 2025-08-06]*
 
 📁 [Zip Archives](https://github.com/konimarti/zip.c3l) - Read and write Zip archives (Zip64 format also supported) *[bumped 2025-08-17]*
@@ -104,6 +102,8 @@ If you have something you feel could be interesting to share with the rest of th
 📁 [Wren C3 bindings](https://github.com/konimarti/wren.c3l) - C3 bindings for the Wren scripting language (no external dependencies) *[bumped 2026-01-02]*
 
 📁 [SoA - StructureOfArrays](https://github.com/nyr24/c3_soa_lib) - C3 library for operating on SoA (Structure Of Arrays) (no external dependencies) *[bumped 2026-01-20]*
+
+📁 [Universal Chess Interface (UCI)](https://github.com/NotsoanoNimus/uci.c3l) - A simple C3 library for managing and communicating with UCI-capable chess engines (e.g., Stockfish or lc0) *[bumped 2026-02-24]*
 
 ### Applications
 

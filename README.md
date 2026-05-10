@@ -125,6 +125,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 ⭐ [Armadillo Madness](https://github.com/Ronin15/Armadillo_Madness_C3) - A complete 2D casual side scroller arcade style game written for my daughter about an Armadillo shooting poop at bad guys.
 
+⭐ [C3 Arkanoid](https://codeberg.org/BrunoVDR/C3-Arka) - An Arkanoid clone game written in C3 with Raylib.
+
 ### Advent of Code solutions
 
 🎅 [CLernö AoC 2022](https://github.com/lerno/aoc_2022_c3) - Complete solution to AoC 2022 *[bumped 2025-04-27]*

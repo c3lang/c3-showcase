@@ -119,6 +119,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 ⭐ [OpenPNGStudio](https://github.com/openpngstudio) - create & stream PNGTuber models.
 
+⭐ [Wedda](https://code.lyranie.dev/wedda) - minimal desktop weather widget.
+
 ### Games
 
 👾 [Boing](https://github.com/tekin-tontu/boing) - BOING (pong) port of python game to C3 *[bumped 2025-04-22]*

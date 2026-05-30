@@ -119,7 +119,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 ⭐ [OpenPNGStudio](https://github.com/openpngstudio) - create & stream PNGTuber models.
 
-⭐ [Wedda](https://code.lyranie.dev/wedda) - minimal desktop weather widget.
+⭐ [Wedda](https://codeberg.org/lyranie/wedda) - minimal desktop weather widget.
 
 ### Games
 

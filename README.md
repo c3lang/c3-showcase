@@ -53,6 +53,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [TOML parser](https://github.com/konimarti/toml.c3l) - TOML config parser for C3 *[bumped 2025-08-06]*
 
+📁 [Java .properties parser](https://github.com/fenilli/javaprops.c3l) - Java .properties parser for C3 *[bumped 2026-07-28]*
+
 📁 [xlsx Writer](https://github.com/radekm/xlsx-writer) - A C3 library for writing XLSX files in a streaming fashion *[bumped 2025-10-04]*
 
 📁 [XML parser](https://github.com/tonis2/xml.c3) - XML parser for C3 *[bumped 2025-04-29]*

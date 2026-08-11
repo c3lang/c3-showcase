@@ -149,6 +149,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 🔤 [muon-kernel](https://github.com/rickyadastra/muon-kernel) - A minimalist x86-64 microkernel written in C3 *[bumped 2025-12-04]*
 
+🔤 [print3](https://github.com/bwindey/print3) - A `cat`-like code highlighter for C3 source files *[bumped 2026-08-11]*
+
 ## Contribute!
 
 Feel free to add pull requests to this repository to either bump a project that you know is active, or add more projects.

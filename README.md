@@ -15,7 +15,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 ### Tooling
 
-🔨 [Bash completion script for c3c](https://github.com/BWindey/c3c-bash-completions/) - tab completions for the c3c command for bash (open for contributions for other platforms: zsh, fish, ...)
+🔨 [Bash completion script for c3c](https://github.com/BWindey/c3c-bash-completions/) - tab completions for the c3c command for bash (open for contributions for other platforms: zsh, fish, ...) *[bumped 2026-08-11]*
 
 🔨 (WIP)[Fish completion script for c3c](https://github.com/fgsoftware1/c3-fish-completions) - tab completions for the c3c command for fish
 

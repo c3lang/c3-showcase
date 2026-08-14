@@ -41,6 +41,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Vulkan-C3](https://github.com/tonis2/Vulkan.c3) - Vulkan bindings for C3 *[bumped 2026-02-01]*
 
+📁 [C3 Assimp Bindings](https://github.com/cguy777/C3-Assimp-Bindings) - Bindings to use Assimp in C3 *[bumped 2026-08-14]*
+
 📁 [Wgpu bindings](https://github.com/tonis2/wgpu.c3l) - WGPU bindings and cube rendering example *[bumped 2026-03-04]*
 
 📁 [Collision detection](https://github.com/tonis2/collision.c3) - 3D collision detection / physcis resolving for C3 *[bumped 2026-02-01]*
@@ -59,7 +61,7 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [XML parser](https://github.com/tonis2/xml.c3) - XML parser for C3 *[bumped 2025-04-29]*
 
-📁 [Binary Serialization](https://github.com/RapidStruct/RapidStructC3) - Simple binary serialization for C3 using RapidStruct
+📁 [Binary Serialization](https://github.com/RapidStruct/RapidStructC3) - Simple binary serialization for C3 using RapidStruct *[bumped 2026-08-14]*
 
 📁 [Inflate](https://github.com/konimarti/tinf.c3l) - C3 Inflate library (inflate, gzip, zlib) *[bumped 2025-04-29]*
 

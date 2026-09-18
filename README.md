@@ -111,6 +111,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Universal Chess Interface (UCI)](https://github.com/NotsoanoNimus/uci.c3l) - A simple C3 library for managing and communicating with UCI-capable chess engines (e.g., Stockfish or lc0) *[bumped 2026-02-24]*
 
+📁 [Matryoshka-3tk](https://github.com/g41797/matryoshka-3tk) - Toolkit for Building Background Processes  *[bumped 2026-09-18]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

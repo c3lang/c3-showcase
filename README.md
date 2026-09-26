@@ -113,6 +113,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 📁 [Matryoshka-3tk](https://github.com/g41797/matryoshka-3tk) - Toolkit for Building Background Processes  *[bumped 2026-09-18]*
 
+📁 [C3-JNI](https://github.com/DeusSixik/c3-jni) - JNI bindings for C3 *[bumped 2026-09-26]*
+
 ### Applications
 
 ⭐ [Sam J Kennedy's Gameboy emulator](https://github.com/samjkennedy/gbc3) - a GameBoy emulator written in C3 *[bumped 2025-04-17]*

@@ -157,6 +157,8 @@ If you have something you feel could be interesting to share with the rest of th
 
 🔤 [print3](https://github.com/bwindey/print3) - A `cat`-like code highlighter for C3 source files *[bumped 2026-08-11]*
 
+🔤 [brainfuck_c3](https://codeberg.org/GuineaPigUuhh/brainfuck_c3) - A minimal Brainfuck interpreter written in C3. *[bumped 2026-10-17]*
+
 ## Contribute!
 
 Feel free to add pull requests to this repository to either bump a project that you know is active, or add more projects.

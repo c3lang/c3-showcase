@@ -9,6 +9,15 @@ If you have something you feel could be interesting to share with the rest of th
 
 ***NOTE: These projects and resources are not officially endorsed by the C3 Project.***
 
+## Table of Contents
+- [Learning resources](#learning-resources)
+- [Tooling](#tooling)
+- [Libraries](#libraries)
+- [Applications](#applications)
+- [Games](#games)
+- [Advent of Code solutions](#advent-of-code-solutions)
+- [Other](#other)
+
 ### Learning resources
 
 📖 [Ebn's C3 tutorials](https://ebn.codeberg.page/programming/c3/) - from Hello World to setting up OpenGL *[bumped 2025-04-17]*
